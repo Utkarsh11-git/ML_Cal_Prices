@@ -13,10 +13,10 @@ The objective of this Data Science project is to understand the dataset containi
 
 ### Insights
 * The average median age of residents on the island is the greatest, while that of residents in inland areas is the lowest.
-* The majority of households are located on the coast.
+* The majority of households are located on the coast.<p align="center"> <img src="https://github.com/Utkarsh11-git/ML_Cal_Prices/assets/92782014/f2e6b825-4bf5-484f-b971-7f7409937706.png" width="600" height="500"> </p>
 * A positive correlation between the median income and the median house value, meaning that as income rises, so does the value of the home.
-* Median house value has a positive correlation with <1H Ocean but has a negative correlation with Inland.
-* Those who live near the ocean have a higher median income than those who do not.
+* Median house value has a positive correlation with <1H Ocean but has a negative correlation with Inland.<p align="center"> <img src="https://github.com/Utkarsh11-git/ML_Cal_Prices/assets/92782014/d2390c3a-45b9-4b60-bab0-848a62e059e2.png" width="600" height="400"> </p>
+* Those who live near the ocean have a higher median income than those who do not.<p align="center"> <img src="https://github.com/Utkarsh11-git/ML_Cal_Prices/assets/92782014/de1e2d01-7282-4b91-a002-ff39916f5778.png" width="600" height="400"> </p>
 * Linear Regression The model score is 0.66, whereas Random Forest Regression scored 0.81
 
 ### Tools and Libraries
