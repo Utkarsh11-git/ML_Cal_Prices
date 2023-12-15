@@ -1,5 +1,5 @@
 # Analyzing the California House Price Dataset Using ML
-The objective of this Data Science project is to understand the dataset containing information about California house prices. By conducting exploratory data analysis, we aim to uncover insights and relationships within the data and use ML algorithms such as Linear Regression and Random Forest for predicting the value of the dependent variable based on the values of independent variables.
+The objective of this Data Science project is to understand the dataset containing information about California house prices. By conducting exploratory data analysis, we aim to uncover insights and relationships within the data and use ML algorithms such as Linear Regression and Random Forest for predicting the value of the dependent variable based on the values of independent variables. Median House Value is the target variable and other features will be used to predict the house value.
 
 ### Objective
 * **Data Exploration:**: Explore the dataset to understand its structure, missing values, and basic statistics.
